@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS585 Image and Video Computing - HW1"
+title: "CS585 Image and Video Computing HW1"
 date: 2021-02-03
 ---
 ![Photo of myself](Photo.jpg "Original Image")
